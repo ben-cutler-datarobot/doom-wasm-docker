@@ -31,4 +31,6 @@ Open https://localhost:8080 to access the app
 <img width="1141" alt="image" src="https://github.com/collabnix/doom-wasm-docker/assets/34368930/2e9a5dea-8822-4cba-8179-7ad001349e7b">
 
 
+## Credits
 
+- https://github.com/TrisNol/doom-wasm
